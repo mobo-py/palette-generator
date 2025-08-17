@@ -1,4 +1,4 @@
-# 🎨 Tkinter Palette Generator
+# 🎨 Palette Generator
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?logo=python)
@@ -19,12 +19,7 @@ Easily generate, lock, copy, and navigate between color palettes with a simple G
 ---
 
 ## 📷 Preview
-> Replace with a screenshot of your app:
-+----------------+----------------+----------------+----------------+
-| Color 1 | Color 2 | Color 3 | Color 4 |
-| (Locked) | (Random) | (Locked) | (Random) |
-+----------------+----------------+----------------+----------------+
-
+![alt text](sample.mov)
 ---
 
 ## 🛠️ Installation
