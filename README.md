@@ -19,7 +19,7 @@ Easily generate, lock, copy, and navigate between color palettes with a simple G
 ---
 
 ## 📷 Preview
-![alt text](sample.mov)
+![alt text](sample.gif)
 ---
 
 ## 🛠️ Installation
